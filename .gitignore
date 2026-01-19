@@ -1,0 +1,22 @@
+# data / outputs
+data/
+results/
+output/
+*.csv
+*.xlsx
+*.nii
+*.dcm
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db

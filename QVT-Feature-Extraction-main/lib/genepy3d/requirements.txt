@@ -1,0 +1,21 @@
+# core packages
+scikit-learn
+scikit-image
+pandas
+seaborn
+requests
+numpy-stl
+pyevtk
+pathos
+pillow
+pynrrd
+anytree
+trimesh
+PyAstronomy
+matplotlib
+pot
+
+# test packages
+
+
+

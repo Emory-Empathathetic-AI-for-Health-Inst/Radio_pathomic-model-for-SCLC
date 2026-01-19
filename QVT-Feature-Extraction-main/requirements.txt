@@ -1,0 +1,18 @@
+# core packages
+numpy
+pandas
+matplotlib
+seaborn
+simpleitk
+edt
+kimimaro
+scikit-image
+skan
+pyradiomics
+scikit-learn
+TotalSegmentator
+
+# test packages
+
+
+
